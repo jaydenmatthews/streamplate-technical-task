@@ -1,5 +1,4 @@
 # streamplate-technical-task
-Streamplate Server Technical Task
 Using the venue dataset provided, write up a Python API that returns a list of categories and the venues under those categories that are closest to the coordinates provided. It should follow the requirements:
 Accepts arguments:
 - latitude (required)
